@@ -1,0 +1,9 @@
+{
+  "_comment": "Cole em .vscode/mcp.json (workspace) OU Command Palette: 'MCP: Add Server' → HTTP → cole https://api.mcp.ai/p_sefaz_rs_nfce_svrs.",
+  "servers": {
+    "sefaz_rs_nfce_svrs": {
+      "type": "http",
+      "url": "https://api.mcp.ai/p_sefaz_rs_nfce_svrs"
+    }
+  }
+}
